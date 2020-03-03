@@ -20,6 +20,7 @@ public class NumberWizard : MonoBehaviour {
     {
         NextGuess();      
     }
+
     public void OnPressHigher()
     {
 
